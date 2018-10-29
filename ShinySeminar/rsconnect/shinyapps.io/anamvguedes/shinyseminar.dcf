@@ -1,0 +1,10 @@
+name: shinyseminar
+title:
+username:
+account: anamvguedes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 534023
+bundleId: 1662321
+url: https://anamvguedes.shinyapps.io/shinyseminar/
+when: 1540469978.47886
