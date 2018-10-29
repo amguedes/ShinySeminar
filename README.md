@@ -1,2 +1,11 @@
 # ShinySeminar
-How to build a shiny app?
+
+This repository contains the material used for Royal Mail meetup series: "Get Into Data Science"
+
+#1: Introduction to Interactive Data Visualisation (17th October 2018)
+
+
+The workshop focused on the importance of Data Visualisation in Machine Learning projects and demonstrate how to create an Interactive Data Visualisation Dashboard using Shiny (an R package).
+
+Shiny is an R library for building interactive webapps. Shiny allows rapid prototyping and quick production of dashboards and interactive data visualizations. This is especially important in situations where putting a real data-driven prototype in the hands of the end user allows for better refining of requirements before passing off to a web development team. This allows to speed up the delivery process and reducing the dependencies on other teams.
+
